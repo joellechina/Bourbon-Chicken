@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+  <head>
+   <meta charset="utf-8">
+<title> My First Boostrap Project</title>
+    <link rel="stylesheet" 
+    <link rel=”stylesheet” href=”css/bootstrap.css”  type=”text/css”/>
+    <head/>
+    <body>
+    <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+      <script src=”js/bootstrap.js”></script>
+    </body>
+  </head>
+  <H1>
+  Chef Savvy
+  </H1>
+    <h3>Bourbon Chicken</h3>
+    PREP TIME: 5 MINS  &nbsp &nbsp COOK TIME: 15 MINS &nbsp &nbsp TOTAL TIME: 20 MINS 
+   <br>SERVES: 4 <br>
+   <br> <i> Super Easy One Pan Bourbon Chicken. Serve with rice and noodles to make it a meal!</i> <br>
+   
+<br><b> Ingredients</b>
+   <ul>
+   <li> 1/2 teaspoon of seasme oil</li>
+   <li> 1 tablespoon of canola oil</li>
+   <li> 2 pounds of cubed chicken breast</li>
+   <li> 4 cloves garlic</li>
+   <li> 1 teaspoon of ginger</li>
+   <li>2 tablespoons of bourbon</li>
+   </ul>
+  
+</html>
